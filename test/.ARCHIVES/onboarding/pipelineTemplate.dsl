@@ -12,7 +12,7 @@ project args.projectName, {
         ]
       }
 
-      task 'Task 2', {
+      task 'Task 3', {
         actualParameter = [
           'commandToRun': "echo 'do another task'",
           'shellToUse': 'sh',
